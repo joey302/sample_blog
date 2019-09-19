@@ -22,6 +22,6 @@
 * ...
 
 * MVC
-* C - Controller: Look at URL and decide what to load; talking to model and view
-* M - Model     : Dealing with database/API/Data Storage etc
+* C - Controller: Look at URL and decide what to load; talking to model and view (plural, ie: Posts, Users...)
+* M - Model     : Dealing with database/API/Data Storage etc (singular, ie: Post, User)
 * V - View(s)   : What user sees on browser
